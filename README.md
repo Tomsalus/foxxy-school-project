@@ -16,4 +16,16 @@ https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-
 WASD or Arrow keys to move.  
 Space to jump.
 
-# Screenshots from the game
+# Screenshots 
+  
+![image](https://user-images.githubusercontent.com/97029126/149776078-9df350af-bcc2-4b2c-a8cf-7418e27e9bcf.png)
+  
+  
+![image](https://user-images.githubusercontent.com/97029126/149777159-ad482cb8-c8dd-4415-b0a5-e3dfb3a93ba0.png)
+  
+  
+![image](https://user-images.githubusercontent.com/97029126/149785369-3b05ddfb-8ce4-4175-a039-4e6a6e5756ac.png)
+
+  
+  
+
