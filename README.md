@@ -25,7 +25,11 @@ Space to jump.
   
   
 ![image](https://user-images.githubusercontent.com/97029126/149785369-3b05ddfb-8ce4-4175-a039-4e6a6e5756ac.png)
+  
+  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/97029126/149790610-86cd9e95-19e8-4cb4-9fbe-565f1ae08274.gif" />
+</p>
 
-  
-  
+
 
